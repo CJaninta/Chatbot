@@ -6,7 +6,7 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route path="/" exact component={main} />
+        <Route path="/Chatbot" exact component={main} />
       </Switch>
     </Router>
   );
