@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Chatbot/static/css/main.4335af09.chunk.css",
+    "main.js": "/Chatbot/static/js/main.168caacd.chunk.js",
+    "main.js.map": "/Chatbot/static/js/main.168caacd.chunk.js.map",
+    "runtime-main.js": "/Chatbot/static/js/runtime-main.c696ec6b.js",
+    "runtime-main.js.map": "/Chatbot/static/js/runtime-main.c696ec6b.js.map",
+    "static/js/2.87db8efe.chunk.js": "/Chatbot/static/js/2.87db8efe.chunk.js",
+    "static/js/2.87db8efe.chunk.js.map": "/Chatbot/static/js/2.87db8efe.chunk.js.map",
+    "static/js/3.3d630354.chunk.js": "/Chatbot/static/js/3.3d630354.chunk.js",
+    "static/js/3.3d630354.chunk.js.map": "/Chatbot/static/js/3.3d630354.chunk.js.map",
+    "index.html": "/Chatbot/index.html",
+    "static/css/main.4335af09.chunk.css.map": "/Chatbot/static/css/main.4335af09.chunk.css.map",
+    "static/js/2.87db8efe.chunk.js.LICENSE.txt": "/Chatbot/static/js/2.87db8efe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c696ec6b.js",
+    "static/js/2.87db8efe.chunk.js",
+    "static/css/main.4335af09.chunk.css",
+    "static/js/main.168caacd.chunk.js"
+  ]
+}
