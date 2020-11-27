@@ -79,6 +79,7 @@ export const useStyles = makeStyles((theme) => ({
         minHeight: '4em',
         alignItems: 'center',
         display: 'flex',
+        justifyContent: 'flex-end',
         marginRight: '2em',
     },
     footer: {
